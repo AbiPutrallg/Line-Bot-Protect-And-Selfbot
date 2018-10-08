@@ -18,11 +18,11 @@
 # GET TOKEN :
 
 # Gunakan bot dengan bijak ya
-# Bot ini menggunakan header desktopwin 10
+# Bot ini menggunakan header IOSPAD
 -
 # Cara Install Bot :
 
-# HEADER DESKTOPWIN 10
+# HEADER IOSPAD
 
 # C9 SERVER/ VPS :
 # sudo apt-get update -y
