@@ -1,16 +1,14 @@
 # REY SEBASTIAN
-# SQUAD NAGA MERAH
+# GHOST HUNTER DEATH
 # BOT PROTECT ANTI JS
 # 1 ADMIN + 4 ASIST
 # jangan gunakan untuk merugikan orang lain
 # jika ada yang ingin ditanyakan bisa add saya
 # id line saya: rey_tlangu
 # saling berbagi ilmu
-# saya hanya merapikan sc 
-# terima kasih untuk arifistifik, galank, dan kawan kawan lain
-# silahkan berkreasi
-# open order selfbot 1 asist sampai seterusnya..
-# SQUAD NAGA MERAH PROTECTION
+# YOUTUBE: https://www.youtube.com/channel/UCiaIqkq-haV6TTDbATDRIOQ
+#
+# GHDPROTECTION
 # CARA INSTALL BOTNYA ADA DI BAWAH
 # HARAP TELITI DALAM MENGINSTALL DAN MENULIS TEXTNYA
 # SALAH SATU HURUFPUN DAPAT MENYEBABKAN ERROR BOTNYA
@@ -26,7 +24,7 @@
 
 # C9 SERVER/ VPS :
 # sudo apt-get update -y
-# sudo apt-get install git -y
+# sudo apt-get install git -
 # sudo apt-get install python3-pip -y
 # sudo pip3 install rsa
 # sudo pip3 install thrift==0.11.0
@@ -80,6 +78,7 @@
 # EDITOR BY REY SEBASTIAN
 
 # Add My ID LINE : rey_tlangu
+# GHOST HUNTER DEATH TEAM BOT
 
 
  
