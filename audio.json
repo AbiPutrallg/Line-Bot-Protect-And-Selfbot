@@ -1,0 +1,29 @@
+{
+    "RAMusic": {
+        "nama": "dadali setengah hatimu",
+        "sound": {
+            "anji menunggu kamu": "Dataudio/anji menunggu kamu.mp3",
+            "ayah-loines": "Dataudio/ayah-loines.mp3",
+            "banyu langit": "Dataudio/banyu langit.mp3",
+            "d'bagindas-bila benar sayang": "Dataudio/d'bagindas-bila benar sayang.mp3",
+            "dadali setengah hatimu": "Dataudio/dadali setengah hatimu.mp3",
+            "hobah-dt": "Dataudio/hobah-dt.mp3",
+            "repuklik aku takut": "Dataudio/repuklik aku takut.mp3",
+            "souqy-cinta dalam doa": "Dataudio/souqy-cinta dalam doa.mp3",
+            "st12-aku masih sayang padamu": "Dataudio/st12-aku masih sayang padamu.mp3",
+            "zoel-orang biasa": "Dataudio/zoel-orang biasa.mp3"
+        },
+        "user": {
+            "u77743326f45692990707c5c8df378b56": true,
+            "uc7c51099c047cb2603633795801ba801": true,
+            "ud3bcdd1b49dd198c844b68f1f735ba09": true
+        }
+    },
+    "RAswitch": {
+        "c100005a42498552efb2fcf16ac244f7c": true,
+        "c907d38360bdfbccbefac780335772070": true,
+        "c9a950e3263f11d65c8ddf84cff6b8778": true,
+        "cef168ba0ab7029837a7f7b02bbf66c9e": true,
+        "cfa0c1332d659caa6aa4bcb2e3be22278": true
+    }
+}
