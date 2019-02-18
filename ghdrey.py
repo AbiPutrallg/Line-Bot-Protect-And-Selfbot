@@ -1643,7 +1643,7 @@ def bot(op):
                                 zx2.append(zx)
                                 zxc += pesan2
                                 text = xpesan + zxc + ret_ + ""
-                                cl.sendReplyMessage(msg.id,msg.to, text, contentMetadata={'MENTION':str('{"MENTIONEES":'+json.dumps(zx2).replace(' ','')+'}')}, contentType=0)
+                                cl.sendMessage(to, text, contentMetadata={'MENTION':str('{"MENTIONEES":'+json.dumps(zx2).replace(' ','')+'}')}, contentType=0)
                                                                                        
                         if cmd == "self on":
                             if msg._from in admin:
@@ -1726,17 +1726,17 @@ def bot(op):
                                 md = "┝────────────────\n"
                                 if wait["sticker"] == True: md+="│sᴛɪᴄᴋᴇʀ「🔲」\n"
                                 else: md+="│sᴛɪᴄᴋᴇʀ「🔳」\n"
-                                if wait["contact"] == True: md+="│🔰ᴄᴏɴᴛᴀᴄᴛ「🔲」\n"
+                                if wait["contact"] == True: md+="│ᴄᴏɴᴛᴀᴄᴛ「🔲」\n"
                                 else: md+="│ᴄᴏɴᴛᴀᴄᴛ「🔳」\n"
-                                if wait["detectMention"] == True: md+="│🔰ʀᴇsᴘᴏɴ「🔲」\n"
+                                if wait["detectMention"] == True: md+="│ʀᴇsᴘᴏɴ「🔲」\n"
                                 else: md+="│ʀᴇsᴘᴏɴ「🔳」\n"
-                                if wait["autoJoin"] == True: md+="│🔰ᴀᴜᴛᴏᴊᴏɪɴ「🔲」\n"
+                                if wait["autoJoin"] == True: md+="│ᴀᴜᴛᴏᴊᴏɪɴ「🔲」\n"
                                 else: md+="│ᴀᴜᴛᴏᴊᴏɪɴ「🔳」\n"
-                                if wait["autoAdd"] == True: md+="│🔰ᴀᴜᴛᴏᴀᴅᴅ「🔲」\n"
+                                if wait["autoAdd"] == True: md+="│ᴀᴜᴛᴏᴀᴅᴅ「🔲」\n"
                                 else: md+="│ᴀᴜᴛᴏᴀᴅᴅ「🔳」\n"
-                                if msg.to in welcome: md+="│🔰ᴡᴇʟᴄᴏᴍᴇ「🔲」\n"
+                                if msg.to in welcome: md+="│ᴡᴇʟᴄᴏᴍᴇ「🔲」\n"
                                 else: md+="│ᴡᴇʟᴄᴏᴍᴇ「🔳」\n"
-                                if wait["autoLeave"] == True: md+="│🔰ᴀᴜᴛᴏʟᴇᴀᴠᴇ「🔲」\n"
+                                if wait["autoLeave"] == True: md+="│ᴀᴜᴛᴏʟᴇᴀᴠᴇ「🔲」\n"
                                 else: md+="│ᴀᴜᴛᴏʟᴇᴀᴠᴇ「🔳」\n"
                                 ginfo = cl.getGroup(msg.to)
                                 ryan = cl.getContact(mid)
